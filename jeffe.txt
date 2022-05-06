@@ -3,4 +3,7 @@ hello
 h r u
 read book
 
+car
+bike
+
 thank you
